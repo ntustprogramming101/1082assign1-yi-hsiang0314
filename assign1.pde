@@ -48,9 +48,9 @@ fill(124, 204, 25);
 rect(0, 145, 640, 15); 
 //sun
 fill(255, 255, 0); 
-circle(590,50, 125);
+ellipse(590,50, 125,125);
 fill(253, 184, 19); 
-circle(590, 50, 120);
+ellipse(590, 50, 120,120);
 //soil
 image(soil,0,160);
 //groundhog
